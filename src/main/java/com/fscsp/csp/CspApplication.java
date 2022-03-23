@@ -15,5 +15,6 @@ public class CspApplication {
 		ConfigurableApplicationContext ctx=SpringApplication.run(CspApplication.class, args);
 		System.out.println("spring is running!");
 		System.out.println("the end!");
+
 	}
 }
